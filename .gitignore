@@ -3,13 +3,8 @@ __pycache__/
 *.pyc
 *.pyo
 *.egg-info/
-dist/
-dist2/
 build/
 *.spec
-
-# PyInstaller 产物（不进 git，发布时单独上传 release）
-_internal/
 
 # IDE
 .idea/
