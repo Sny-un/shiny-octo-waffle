@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+dist2/
+build/
+*.spec
+
+# PyInstaller 产物（不进 git，发布时单独上传 release）
+_internal/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# 数据文件（不进 git，每人自己录）
+*.json
+!example_students.json
+
+# 系统
+Thumbs.db
+Desktop.ini
+
+# 临时文件
+test_export.docx
+debug_ocr.py
