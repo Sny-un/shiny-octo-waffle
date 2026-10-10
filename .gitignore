@@ -22,3 +22,8 @@ Desktop.ini
 # 临时文件
 test_export.docx
 debug_ocr.py
+
+# 打包产物不进git，用Releases分发
+dist/
+dist2/
+build/
